@@ -57,7 +57,7 @@
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "This website uses cookies based on your browsing activity to help you have a better experience. We may share your site usage data with our State Court partners. By using this website, you agree that On Line Information Services, Inc. may store and access cookies on your device. For more information please view our Privacy Policy. <a href='privacy.html'>Privacy Policy</a>.",
+      "text": "This website uses cookies based on your browsing activity to help you have a better experience. We may share your site usage data with our State Court partners. By using this website, you agree that On Line Information Services, Inc. may store and access cookies on your device. For more information please view <a href='privacy.html'>our Privacy Policy. </a>",
       "textButton": "Agree"
     },
     "gdpr": {
